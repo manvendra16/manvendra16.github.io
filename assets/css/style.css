@@ -1,0 +1,116 @@
+.Name {
+  text-align: left;
+  color: white; 
+}
+a:hover {
+    color: lightslategray;
+}
+.myheader{
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+    background-image: url("https://www.connectinternetsolutions.com/wp-content/uploads/2016/02/12-Courses-for-Starting-Your-Web-Development-Journey.jpg");
+    height: 700px;
+    background-size: cover;
+    background-repeat: no repeat;
+}
+.Profile_pic {
+    border-radius: 50%;
+}
+#manvendra-about {
+  text-align: center;
+  padding-top: 170px;
+  color: ghostwhite;
+  background-image: url("https://images.unsplash.com/photo-1473773508845-188df298d2d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 550px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.inner {
+  text-align: center;
+}
+.item1 {
+  text-align: center;
+  height: 70%;
+  /*height: 100px;*/
+}
+.item3 {
+  text-align: center;
+  height: 70%;
+  /*height: 100px;*/
+}
+#skills {
+  display: flex;
+  background-image: url("https://assets.mindtools.com/media/Responsive-Images/Articles/Creativity_Techniques/IS_41454894_Rawpixel_2x1.jpg");
+  height: 500px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.list-group1 {
+  width: 20%;
+  margin-top: 150px;
+  margin-left: 371px;
+}
+.list-group2 {
+  width: 20%;
+  margin-top: 150px;
+}
+.list-group-item {
+  text-align: center;
+}
+.inner {
+  text-align: center;
+}
+.item4 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  height: 50%;
+  /*height: 100px;*/
+}
+
+.item5 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  height: 50%;
+  /*height: 100px;*/
+}
+
+.item6 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  height: 50%;
+  /*height: 100px;*/
+}
+#copyright {
+  font-size: 8pt;
+  text-align: right;
+  padding-bottom: 1px;
+  color: grey;
+}
+#contactMe {
+  background-image: url("https://makcreates.com/wp-content/uploads/2018/03/black-background-mak-creates-web-design-services-1500-2500.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+}
+.instagram {
+  padding-top: 100px;
+  padding-left: 500px;
+}
+.linkedIn {
+  padding-left: 50px;;
+}
+.gmail {
+  padding-left: 50px;
+}
+.heading {
+  color: white;
+  font-family: arial;
+  text-align: center;
+  font-size: 100px;
+  padding-top: 75px;
+}
